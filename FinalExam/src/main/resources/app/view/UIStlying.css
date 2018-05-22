@@ -1,0 +1,23 @@
+.label {
+    -fx-font-family: "Cambria", Times, serif;
+    -fx-font-size: 12pt;
+}
+
+.button {
+	-fx-font-family: "Cambria", Times, serif;
+    -fx-font-size: 10pt;
+    -fx-background-color: #b3ffcc;
+    -fx-border-radius: 8px;
+    -fx-transition-duration: 0.3s;
+}
+
+.button:hover {
+	-fx-background-color: #ffffe6;
+}
+
+.root {
+    -fx-background-color: #4db8ff;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-border-width: 5pt;
+}
